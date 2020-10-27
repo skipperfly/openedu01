@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "edufirst"
+      "X-Author": "edufirst",
+      "Access-Control-Allow-Origin": "*"
       }
   }
 
